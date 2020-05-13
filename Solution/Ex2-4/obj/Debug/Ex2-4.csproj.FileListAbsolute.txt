@@ -1,0 +1,6 @@
+D:\dotnet\Laborator 1\Solution\Ex2-4\bin\Debug\Ex2-4.exe.config
+D:\dotnet\Laborator 1\Solution\Ex2-4\bin\Debug\Ex2-4.exe
+D:\dotnet\Laborator 1\Solution\Ex2-4\bin\Debug\Ex2-4.pdb
+D:\dotnet\Laborator 1\Solution\Ex2-4\obj\Debug\Ex2-4.csproj.CoreCompileInputs.cache
+D:\dotnet\Laborator 1\Solution\Ex2-4\obj\Debug\Ex2-4.exe
+D:\dotnet\Laborator 1\Solution\Ex2-4\obj\Debug\Ex2-4.pdb
